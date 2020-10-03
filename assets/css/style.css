@@ -414,7 +414,7 @@ section {
 .skills .progress-bar {
   width: 1px;
   height: 10px;
-  transition: .9s;
+  transition: 2s;
   background-color: #149ddd;
 }
 
