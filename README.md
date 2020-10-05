@@ -1,6 +1,5 @@
 # smshozab.github.io
-My personal website
-build with Bootstrap mainly
+My personal website made with ❤️ by Shozab Mehdi
 
 
 
